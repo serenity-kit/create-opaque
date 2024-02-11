@@ -1,0 +1,15 @@
+{
+  "name": "create-opaque",
+  "version": "0.0.7",
+  "description": "Script to create one of the https://github.com/serenity-kit/opaque/ examples",
+  "type": "module",
+  "author": "Nik Graf",
+  "license": "MIT",
+  "dependencies": {
+    "@serenity-kit/opaque": "^0.8.3",
+    "fs-extra": "^11.2.0",
+    "tar": "^6.2.0",
+    "ts-node": "^10.9.2"
+  },
+  "bin": "index.js"
+}
